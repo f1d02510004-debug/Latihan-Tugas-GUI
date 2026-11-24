@@ -39,16 +39,18 @@ Program menggunakan tiga jenis Layout Classes:
 ActionListener digunakan untuk menangani tindakan pengguna ketika menekan tombol Simpan Data. Metode actionPerformed(ActionEvent e) di-override untuk mengambil data dari kolom input, memeriksa kelengkapan data, dan menampilkan hasil melalui JOptionPane.
 Jika nama atau NIM belum diisi, program menampilkan pesan peringatan. Jika seluruh data telah diisi, program menampilkan notifikasi bahwa data berhasil disimpan beserta informasi mahasiswa.
 
+
 ## Screenshot Program
 
 ### Tampilan Formulir
-![Tampilan Formulir](screenshots/tampilan-formulir.png)
+![Tampilan Formulir](./Tampilan%20Formulir.png)
 
 ### Hasil Penyimpanan Data
-![Hasil Penyimpanan](screenshots/hasil-simpan.png)
+![Hasil Penyimpanan](./Hasil%20disimpan.png)
 
 ### Validasi Input Kosong
-![Validasi Input Kosong](screenshots/validasi-input.png)
+![Validasi Input](./Validasi%20Input.png)
+
 
 ## Teknologi yang Digunakan
 - Bahasa Pemrograman: Java
